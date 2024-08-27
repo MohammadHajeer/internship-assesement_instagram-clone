@@ -1,5 +1,5 @@
-import { bottomNavigationBarItems } from "../constants";
-import MenuItem from "./MenuItem";
+import { bottomNavigationBarItems } from "../../constants";
+import MenuItem from "../shared/MenuItem";
 
 const BottomNavigationbar = () => {
   return (

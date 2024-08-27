@@ -1,6 +1,6 @@
-import Feed from "../components/Feed";
-import RightSidebar from "../components/RightSidebar";
-import TopNavigationbar from "../components/TopNavigationbar";
+import Feed from "../components/shared/Feed";
+import RightSidebar from "../components/menubars/RightSidebar";
+import TopNavigationbar from "../components/menubars/TopNavigationbar";
 
 const Home = () => {
   return (

@@ -1,5 +1,5 @@
-import { quickLinks } from "../constants";
-import ProfileCard from "./ProfileCard";
+import { quickLinks } from "../../constants";
+import ProfileCard from "../shared/ProfileCard";
 
 const RightSidebar = () => {
   return (

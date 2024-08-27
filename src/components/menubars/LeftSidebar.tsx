@@ -1,6 +1,6 @@
 import { FaThreads } from "react-icons/fa6";
-import { leftSidebarItems } from "../constants";
-import MenuItem from "./MenuItem";
+import { leftSidebarItems } from "../../constants";
+import MenuItem from "../shared/MenuItem";
 import { LiaBarsSolid } from "react-icons/lia";
 import { FaInstagram } from "react-icons/fa";
 
