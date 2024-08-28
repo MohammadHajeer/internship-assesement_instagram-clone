@@ -6,6 +6,9 @@ export default {
       screens: {
         xs: "487px",
       },
+      backgroundImage: {
+        "background": "url('bg.svg')",
+      },
     },
   },
   plugins: [],
