@@ -6,7 +6,7 @@ import { FaInstagram } from "react-icons/fa";
 
 const LeftSidebar = () => {
   return (
-    <div className="w-[244px] max-xl:w-[76px] h-screen sticky px-[12px] pb-[20px] pt-[8px] border-[1px] border-r-gray-3200 flex flex-col max-md:hidden">
+    <div className="w-[244px] max-xl:w-[76px] h-screen sticky px-[12px] pb-[20px] pt-[8px] border-[1px] border-r-gray-3200 flex flex-col max-md:hidden top-0 left-0">
       <h1 className="mb-[19px] pt-[25px] px-[12px] pb-[16px] font-bold text-2xl flex items-center">
         <FaInstagram className="size-[29px] xl:hidden" />
         <span className="max-xl:hidden text-xl h-[29px]">Instagram</span>

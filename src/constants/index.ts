@@ -4,9 +4,6 @@ import { HiOutlineVideoCamera } from "react-icons/hi";
 import { TbMessageCircleBolt } from "react-icons/tb";
 import { FaRegHeart } from "react-icons/fa";
 import { BiMessageSquareAdd } from "react-icons/bi";
-import { MdOutlineModeComment } from "react-icons/md";
-import { BsSend } from "react-icons/bs";
-import { FiBookmark } from "react-icons/fi";
 
 import profilePhoto from '../assets/profile-photo.jpg';
 
@@ -124,7 +121,7 @@ export const quickLinks = [
         url: '#'
     },
     {
-        title: 'Meta Verified',
+        title: 'Meta Zionist Verified',
         url: '#'
     },
 ]

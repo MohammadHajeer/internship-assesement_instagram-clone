@@ -35,7 +35,7 @@ const RightSidebar = () => {
           ))}
         </ul>
         <p className="text-gray-400 text-[12px] uppercase font-semibold mt-5">
-          @ 2024 Instagram from meta
+          @ 2024 Instagram from zionist meta
         </p>
       </div>
     </div>
